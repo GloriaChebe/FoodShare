@@ -1,16 +1,1 @@
-# foodshare
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project provides a platform where hotels can dispose their surplus food stuff to individuals i need . We have the admin section where he can register, view and delete the hotels. We also have the hotel section which upon logging in, they can post the foods and can see the food they have posted, delete it and can see history of food they have ever posted. Lastly , we have the user section where the user can log in , see the food available in the dashboard. Claim the food and upon claiming, they can have a receipt.
